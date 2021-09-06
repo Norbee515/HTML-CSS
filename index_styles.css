@@ -1,0 +1,14 @@
+.title{
+  background-color: #a9a9a9;
+  padding: 2rem;
+  text-align: center;
+  margin: 2rem auto;
+  width:25rem ;
+  border-radius: 10px;
+}
+
+.subtitle{
+  padding: 2rem;
+  text-align: center;
+  margin: 0 auto;
+}

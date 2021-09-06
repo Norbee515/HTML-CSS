@@ -1,0 +1,28 @@
+.data {
+  display: grid;
+  padding: 1rem;
+  grid-template-columns: 12.5rem 1fr;
+  gap: 1.5rem;
+  align-items: center;
+  margin: auto;
+  width: 25rem;
+  
+  border: 1px transparent;
+  border-radius: 10px;
+  background: #a9a9a9;
+}
+img {
+  max-width: 70%;
+  max-height: 100%;
+  width: auto;
+  height: auto;
+
+}
+.title {
+  background-color: #a9a9a9;
+  padding: 2rem;
+  text-align: center;
+  margin: 2rem auto;
+  width:25rem ;
+  border-radius: 10px;
+}
